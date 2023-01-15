@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ThankRain/ThankRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙌 Who am I
+- A student who was major in **Material Science** but interested about all the things about **Compute Science**
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on 
+- 🎈 Function Compute with WebAssembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- 🦀 Rust
+- 🔥 Flutter
+- ⚡ WebAssembly
+- 👋 Machine Learning
+- ✨ Figma
+
+### ⚡ Fun fact
+- 🎨 Be skilled in Android but be interesting about the back end & Cloud Native
