@@ -15,3 +15,14 @@
 
 ### ⚡ Fun fact
 - 🎨 Be skilled in Android but be interesting about the back end & Cloud Native
+
+### 🍭 Skills
+- Java & Kotlin for Android
+- Jetpack Compose for Android
+- Golang for backend
+- Rust for backend
+- Vue.js for Web
+- Python for ML
+- Figma for UI Design
+- Flutter for Cross Platform
+- Swift for iOS (in progress)
