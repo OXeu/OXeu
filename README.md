@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ### 🙌 Who am I
-- A student who was major in **Material Science** but interested about all the things about **Compute Science**
+- 🍚 A student who was major in **Material Science** but interested about all the things about **Compute Science**
+- 🎨 Be skilled in Android but be interesting about the back end & Cloud Native
+
 
 ### 🔭 I’m currently working on 
-- 🎈 Function Compute with WebAssembly
+- Kotlin Multiplatform Mobile + Jetpack Compose & Swift UI
+
 
 ### 🌱 I’m currently learning
 - 🦀 Rust
@@ -12,9 +15,9 @@
 - ⚡ WebAssembly
 - 👋 Machine Learning
 - ✨ Figma
+- 🍉 Swift UI
+- 🫐 Kotlin Multiplatform Mobile
 
-### ⚡ Fun fact
-- 🎨 Be skilled in Android but be interesting about the back end & Cloud Native
 
 ### 🍭 Skills
 - Java & Kotlin for Android
@@ -25,4 +28,3 @@
 - Python for ML
 - Figma for UI Design
 - Flutter for Cross Platform
-- Swift for iOS (in progress)
