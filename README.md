@@ -16,7 +16,7 @@
 - 👋 Machine Learning
 - ✨ Figma
 - 🍉 Swift UI
-- 🫐 Kotlin Multiplatform Mobile
+- 🍧 Kotlin Multiplatform Mobile
 
 
 ### 🍭 Skills
