@@ -6,7 +6,7 @@
 
 
 ### 🔭 I’m currently working on 
-- Kotlin Multiplatform Mobile + Jetpack Compose & Swift UI
+- Rust Embedded on RISC-V
 
 
 ### 🌱 I’m currently learning
