@@ -3,7 +3,7 @@
 
 
 ### 🙌 Who am I
-A undergraduate student who was roaming on the **Compute Science**
+An undergraduate student in Huazhong University of Science and Technology who was roaming on the **Compute Science**
 
 
 ### 🔭 I’m currently working on
