@@ -1,12 +1,11 @@
 ### Hi there 👋
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ThankRain&show_icons=true&theme=dracula&hide_border=true&count_private=true"></img>
 ### 🙌 Who am I
-- 🍚 A student who was major in **Material Science** but interested about all the things about **Compute Science**
-- 🎨 Be skilled in Android but be interesting about the back end & Cloud Native
+- 🍚 A student who was roaming on the **Compute Science**
 
 
-### 🔭 I’m currently working on 
-- Rust Embedded on RISC-V
+### 🔭 I’m currently working on
+- [MemoxApp](https://github.com/MemoxApp)
 
 
 ### 🌱 I’m currently learning
@@ -16,7 +15,6 @@
 - 👋 Machine Learning
 - ✨ Figma
 - 🍉 Swift UI
-- 🍧 Kotlin Multiplatform Mobile
 
 
 ### 🍭 Skills
