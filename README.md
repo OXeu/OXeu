@@ -3,7 +3,7 @@
 
 
 ### 🙌 Who am I
-- 🍚 A student who was roaming on the **Compute Science**
+A undergraduate student who was roaming on the **Compute Science**
 
 
 ### 🔭 I’m currently working on
