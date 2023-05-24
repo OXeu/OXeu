@@ -1,5 +1,5 @@
 ### Hi there 👋  
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ThankRain&show_icons=true&theme=dracula&hide_border=true&count_private=true"></img>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ThankRain&show_icons=true&theme=default&hide_border=false&count_private=true"></img>
 
 
 ### 🙌 Who am I
@@ -8,7 +8,7 @@
 
 ### 🔭 I’m currently working on
 
-[![Memox App](https://github-readme-stats.vercel.app/api/pin/?username=MemoxApp&repo=android&show_owner=true)](https://github.com/MemoxApp/android)
+[![Memox App](https://github-readme-stats.vercel.app/api/pin?username=MemoxApp&repo=android&show_owner=true)](https://github.com/MemoxApp/android)
 
 ### 🌱 I’m currently learning
 - 🦀 Rust
