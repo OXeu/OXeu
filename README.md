@@ -8,7 +8,7 @@ An undergraduate student in Huazhong University of Science and Technology who wa
 
 ### 🔭 I’m currently working on
 
-[![Memox App](https://github-readme-stats.vercel.app/api/pin?username=MemoxApp&repo=android&show_owner=true)](https://github.com/MemoxApp/android)
+[![Memox App](https://github-readme-stats.vercel.app/api/pin?username=ThankRain&repo=simplefs&show_owner=true)](https://github.com/ThankRain/simplefs)
 
 ### 🌱 I’m currently learning
 - 🦀 Rust
