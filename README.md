@@ -29,4 +29,4 @@ An undergraduate student in Huazhong University of Science and Technology who wa
 - Python for ML
 - Figma for UI Design
 - Flutter for Cross Platform
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankRain&langs_count=5&show_icons=true&theme=default&layout=compact&hide=Jupyter+Notebook,javascript,C%2B%2B,HTML,Python,SCSS,TypeScript,Cmake" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankRain&langs_count=5&show_icons=true&theme=default&layout=compact&hide=Jupyter+Notebook,javascript,C%2B%2B,HTML,Python,SCSS,TypeScript,Cmake" />
