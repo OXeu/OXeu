@@ -22,4 +22,4 @@ An undergraduate student in Huazhong University of Science and Technology who wa
 - Flutter for Cross Platform
 - SwiftUI for iOS App
 
-[![Xeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thankrain)](https://github.com/anuraghazra/github-readme-stats)
+[![Xeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxeu)](https://github.com/anuraghazra/github-readme-stats)
