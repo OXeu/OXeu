@@ -1,8 +1,12 @@
 ### Hi there 👋  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=OXeu&labelColor=%23697689&countColor=%2337d67a&labelStyle=upper)
 
-[![Xeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxeu)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=OXeu)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=OXeu&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=OXeu&date_format=%5BY.%5Dn.j#gh-light-mode-only)
+
+![](https://github-readme-stats-one-bice.vercel.app/api?username=OXeu&show_icons=true&theme=calm&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OXeu&theme=dark&date_format=%5BY.%5Dn.j#gh-dark-mode-only)
+
 ### 🙌 Who am I
 An undergraduate student in Huazhong University of Science and Technology who was roaming on the **Compute Science**
 
