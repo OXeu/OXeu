@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OXeu&date_format=%5BY.%5Dn.j#gh-light-mode-only)
 
 ### 🙌 Who am I
-An undergraduate student in Huazhong University of Science and Technology who was roaming on the **Compute Science**
+A person who loves programming, electronics, and all things computer science
 
 
 ### 🌱 I’m currently working on
